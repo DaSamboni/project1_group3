@@ -1,5 +1,12 @@
-"Natality Rates and Percents","Kent","Michigan"
-"Abortion rate","10.3 ±0.3","14.8 ±0.1"
-"% Births with adequate prenatal care","70.0 ±0.6","68.9 ±0.2"
-"Teen pregnancy rate","22.0 ±1.1","22.4 ±0.3"
-"% Low weight births","9.2 ±0.4","9.1 ±0.1"
+Year,County,State,Infant Deaths,Live Births
+2022,Kent,Michigan,41,7898
+2021,Kent,Michigan,40,8203
+2020,Kent,Michigan,55,8180
+2019,Kent,Michigan,51,8176
+2018,Kent,Michigan,41,8613
+2017,Kent,Michigan,46,8684
+2016,Kent,Michigan,56,8795
+2015,Kent,Michigan,56,8823
+2014,Kent,Michigan,52,8886
+2013,Kent,Michigan,39,8832
+2012,Kent,Michigan,50,8958

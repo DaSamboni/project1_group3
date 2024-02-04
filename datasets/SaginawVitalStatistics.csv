@@ -1,5 +1,12 @@
-"Natality Rates and Percents","Saginaw","Michigan"
-"Abortion rate","14.6 ±0.7","14.8 ±0.1"
-"% Births with adequate prenatal care","65.9 ±1.2","68.9 ±0.2"
-"Teen pregnancy rate","31.5 ±2.5","22.4 ±0.3"
-"% Low weight births","10.7 ±0.8","9.1 ±0.1"
+Year,County,State,Infant Deaths,Live Births
+2022,Saginaw,Michigan,17,1904
+2021,Saginaw,Michigan,10,2018
+2020,Saginaw,Michigan,26,2002
+2019,Saginaw,Michigan,18,2118
+2018,Saginaw,Michigan,19,2192
+2017,Saginaw,Michigan,10,2248
+2016,Saginaw,Michigan,27,2192
+2015,Saginaw,Michigan,19,2254
+2014,Saginaw,Michigan,21,2259
+2013,Saginaw,Michigan,19,2289
+2012,Saginaw,Michigan,13,2341

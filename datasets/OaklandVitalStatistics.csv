@@ -1,5 +1,12 @@
-"Natality Rates and Percents","Oakland","Michigan"
-"Abortion rate","14.8 ±0.3","14.8 ±0.1"
-"% Births with adequate prenatal care","80.5 ±0.4","68.9 ±0.2"
-"Teen pregnancy rate","13.0 ±0.7","22.4 ±0.3"
-"% Low weight births","8.3 ±0.3","9.1 ±0.1"
+Year,County,State,Infant Deaths,Live Births
+2022,Oakland,Michigan,42,12402
+2021,Oakland,Michigan,62,12879
+2020,Oakland,Michigan,62,12305
+2019,Oakland,Michigan,53,12899
+2018,Oakland,Michigan,79,13152
+2017,Oakland,Michigan,71,13184
+2016,Oakland,Michigan,72,13627
+2015,Oakland,Michigan,71,13547
+2014,Oakland,Michigan,83,13454
+2013,Oakland,Michigan,90,13445
+2012,Oakland,Michigan,93,13307
