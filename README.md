@@ -1,4 +1,4 @@
-# project1_group3 (Tasha Peeples, Deiva Ganabathy, Sara Simons, Jonathan Yang, and Samuel DeWitt)
+# Measures of Gentrification Across Counties: Kent, Oakland, and Saginaw (Michigan)
 
 
 # This assessment sets out to observe four counties we identified as either gentrified/gentrifying or non-gentrified/slowly gentrifying (from most to least gentrified: Oakland, # # Kent, Muskegon, and Saginaw). We used data from the US Census and other various Michigan based .gov sites to make our observations.
